@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-RetosApplication<retos>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "ciclo4.retos.RetosApplication",
+            "projectName": "retos",
+            "args": ""
+        }
+    ]
+}
